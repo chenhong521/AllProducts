@@ -28,7 +28,7 @@ export default new Router({
       }
     },
     {
-      path: '/card',
+      path: '/card222',
       component: Card,
       meta: {
         showHeader: true
