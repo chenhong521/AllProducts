@@ -21,7 +21,7 @@ export default new Router({
       }
     },
     {
-      path: '/loan',
+      path: '/loan1',
       component: Loan,
       meta: {
         showHeader: true
